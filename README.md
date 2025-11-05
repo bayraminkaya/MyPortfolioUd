@@ -86,8 +86,10 @@ konularında ileri seviye deneyim elde ettim. 💪
 
 ## 📸 Ekran Görselleri
 
-*(Dilersen GitHub’da `/screenshots` klasörü oluşturup görselleri burada paylaşabilirsin)*
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-![Portfolio Page](screenshots/portfolio.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20182851.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20182945.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20183016.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20183948.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20184015.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20184030.png)
+![image](https://github.com/bayraminkaya/MyPortfolioUd/blob/master/MyPortfolioUd/%C4%B0mage/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-11-05%20184053.png)
